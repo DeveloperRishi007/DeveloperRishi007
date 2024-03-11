@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeveloperRishi007
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 👀 I’m interested in Backend Web Development
+- 🌱 I’m currently learning Backend-Development
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
