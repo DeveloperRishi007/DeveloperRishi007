@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeveloperRishi007 🙂
-- 👀 I’m interested in Pyhton Programming 🐍
-- 🌱 I’m currently learning Python 🐍
+- 👀 I’m interested in DSA 🧑🏻‍💻
+- 🌱 I’m currently learning C++ 😌
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
