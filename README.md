@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DeveloperRishi007 🙂
+- 🎓 Student of KIIT SCA 2027' 😎
 - 👀 I’m interested in DSA 🧑🏻‍💻
-- 🌱 I’m currently learning C++ 😌
+- 🌱 I’m currently learning C 😌
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
